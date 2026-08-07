@@ -1,11 +1,19 @@
-# Site de Carros
+# Car Dealership Website
 
-Projeto de estudo: catálogo de carros para revenda.
+Study project: a car catalog page for a local dealership.
 
 ## Stack
+
 - HTML5
-- CSS3 (em desenvolvimento)
-- JavaScript (planejado)
+- CSS3 (in progress)
+- JavaScript (planned)
 
 ## Status
-Em desenvolvimento. Estrutura HTML concluída.
+
+In development. HTML structure complete.
+
+## What I learned
+
+- Semantic HTML structure
+- Block vs inline elements
+- Browser DevTools for debugging
