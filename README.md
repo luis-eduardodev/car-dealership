@@ -20,3 +20,5 @@ In development. HTML structure and basic styling complete.
 - Centering blocks with `margin: 0 auto`
 - Pseudo-classes (`a:hover`)
 - Browser DevTools for debugging
+- Accessible images with descriptive `alt` text
+- Browser DevTools for inspecting and debugging
