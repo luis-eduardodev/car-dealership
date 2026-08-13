@@ -14,11 +14,7 @@ In development. HTML structure and basic styling complete.
 
 ## What I learned
 
-- Semantic HTML structure
-- Block vs inline elements
-- CSS box model: margin vs padding
-- Centering blocks with `margin: 0 auto`
-- Pseudo-classes (`a:hover`)
-- Browser DevTools for debugging
-- Accessible images with descriptive `alt` text
-- Browser DevTools for inspecting and debugging
+- `gap`: creates space between the cards
+- `max-width: 100%`: limits the image width to the parent's width
+- `<main>`: marks the main content
+- Flexbox: puts the cards side by side
