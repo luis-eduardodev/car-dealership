@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
   max-width: 900px;
@@ -5,18 +8,24 @@ body {
   padding: 20px;
   background-color: #e6e6e6;
   color: #333;
-  list-style: none;
+}
+
+main {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 20px;
 }
 
 article {
   background-color: #fff;
+  width: 300px;
   padding: 20px;
-  margin-bottom: 20px;
   border-radius: 8px;
 }
 
 img {
-  max-width: 300px;
+  max-width: 100%;
+  height: auto;
   border-radius: 4px;
 }
 
