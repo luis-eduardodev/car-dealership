@@ -12,6 +12,8 @@ Study project: a car catalog page for a local dealership.
 
 In development. HTML structure and basic styling complete.
 
+- Local image files instead of base64 (smaller HTML, browser can cache)
+
 ## What I learned
 
 - `gap`: creates space between the cards
