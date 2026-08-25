@@ -20,3 +20,5 @@ In development. HTML structure and basic styling complete.
 - `max-width: 100%`: limits the image width to the parent's width
 - `<main>`: marks the main content
 - Flexbox: puts the cards side by side
+- `<nav>`: marks navigation links
+- `href="#id"`: jumps to a section of the same page
