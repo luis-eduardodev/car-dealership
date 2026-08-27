@@ -14,7 +14,7 @@ In development. HTML structure and basic styling complete.
 
 - Local image files instead of base64 (smaller HTML, browser can cache)
 
-## What I learned
+### What I learned
 
 - `gap`: creates space between the cards
 - `max-width: 100%`: limits the image width to the parent's width
@@ -22,3 +22,5 @@ In development. HTML structure and basic styling complete.
 - Flexbox: puts the cards side by side
 - `<nav>`: marks navigation links
 - `href="#id"`: jumps to a section of the same page
+- `<figure>`: groups the image with a caption
+- `<figcaption>`: defines the caption of the figure
