@@ -24,3 +24,4 @@ In development. HTML structure and basic styling complete.
 - `href="#id"`: jumps to a section of the same page
 - `<figure>`: groups the image with a caption
 - `<figcaption>`: defines the caption of the figure
+- Relative path: points to another file from the current file
