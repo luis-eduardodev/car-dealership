@@ -1,6 +1,13 @@
 # Car Dealership Website
 
-Study project: a car catalog page for a local dealership.
+A car dealership catalog website, built to practice semantic HTML5 and CSS3 layout.
+
+## Features
+
+- Car catalog with four cars
+- Navigation between pages and anchor links
+- Contact form with validation
+- Responsive layout that adapts to screen size
 
 ## Stack
 
@@ -12,9 +19,7 @@ Study project: a car catalog page for a local dealership.
 
 In development. HTML structure and basic styling complete.
 
-- Local image files instead of base64 (smaller HTML, browser can cache)
-
-### What I learned
+## What I learned
 
 - `gap`: creates space between the cards
 - `max-width: 100%`: limits the image width to the parent's width
@@ -25,6 +30,7 @@ In development. HTML structure and basic styling complete.
 - `<figure>`: groups the image with a caption
 - `<figcaption>`: defines the caption of the figure
 - Relative path: points to another file from the current file
+- Local image files instead of base64 (smaller HTML, browser can cache)
 - `<form>`: structure of the form
 - `<textarea>`: text field with multiple lines
 - `<label>`: describes a field and links to its id
