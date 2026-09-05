@@ -25,3 +25,8 @@ In development. HTML structure and basic styling complete.
 - `<figure>`: groups the image with a caption
 - `<figcaption>`: defines the caption of the figure
 - Relative path: points to another file from the current file
+- `<form>`: structure of the form
+- `<textarea>`: text field with multiple lines
+- `<label>`: describes a field and links to its id
+- `required`: makes the field mandatory
+- `type`: defines the type of the input
