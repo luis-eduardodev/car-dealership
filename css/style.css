@@ -15,6 +15,11 @@ main {
   flex-flow: row wrap;
   gap: 20px;
 }
+.main-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 
 article {
   background-color: #fff;
@@ -32,6 +37,11 @@ img {
 h2 {
   color: #0056b3;
   margin-top: 0;
+}
+
+h3 {
+  color: #222;
+  margin-top: 20px;
 }
 
 ul {
@@ -64,4 +74,27 @@ nav ul {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+textarea {
+  padding: 8px;
+  width: 80%;
+  height: 100px;
+  resize: vertical;
+}
+
+.form-input {
+  padding: 5px;
+  width: 45%;
+}
+
+.form-submit {
+  padding: 8px;
+  cursor: pointer;
+  width: 20%;
 }
