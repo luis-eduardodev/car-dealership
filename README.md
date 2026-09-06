@@ -38,3 +38,6 @@ In development. HTML structure and basic styling complete.
 - `required`: makes the field mandatory
 - `type`: defines the type of the input
 - `[attr^="value"]`: selects elements whose attribute starts with the value
+- `::after`: inserts content after the element's content
+- `::after`: inserts content after the element's content
+- `content`: defines what the pseudo-element will show
