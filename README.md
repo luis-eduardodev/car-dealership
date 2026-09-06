@@ -37,3 +37,4 @@ In development. HTML structure and basic styling complete.
 - `<label>`: describes a field and links to its id
 - `required`: makes the field mandatory
 - `type`: defines the type of the input
+- `[attr^="value"]`: selects elements whose attribute starts with the value
