@@ -80,6 +80,10 @@ nav ul {
   flex-wrap: wrap;
 }
 
+.navtop li:not(:last-child)::after {
+  content: " |";
+}
+
 form {
   display: flex;
   gap: 10px;
