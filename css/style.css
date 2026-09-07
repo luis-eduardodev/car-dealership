@@ -6,12 +6,13 @@ body {
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
+  line-height: 1.6;
   background-color: #dee7e7;
   color: #333;
 }
 
 a[href^="https://"] {
-  color: #4a4238;
+  color: #383370;
 }
 
 main {
@@ -32,6 +33,10 @@ article {
   border-radius: 8px;
 }
 
+.specs {
+  text-transform: capitalize;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -46,6 +51,7 @@ h2 {
 h3 {
   color: #222;
   margin-top: 20px;
+  text-transform: uppercase;
 }
 
 ul {
