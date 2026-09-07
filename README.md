@@ -41,3 +41,5 @@ In development. HTML structure and basic styling complete.
 - `::after`: inserts content after the element's content
 - `::after`: inserts content after the element's content
 - `content`: defines what the pseudo-element will show
+- `line-height`: defines the height of each line (no unit = multiplier of font-size)
+- `text-transform`: changes the case of the text
