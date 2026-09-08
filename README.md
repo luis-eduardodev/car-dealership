@@ -43,3 +43,4 @@ In development. HTML structure and basic styling complete.
 - `content`: defines what the pseudo-element will show
 - `line-height`: defines the height of each line (no unit = multiplier of font-size)
 - `text-transform`: changes the case of the text
+- `position: sticky`: scrolls normally until it reaches the defined position, then sticks
