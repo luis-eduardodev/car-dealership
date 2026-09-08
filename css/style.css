@@ -89,6 +89,13 @@ nav ul {
 .navtop li:not(:last-child)::after {
   content: " |";
 }
+.navtop {
+  position: sticky;
+  top: 0;
+  background-color: #a0d6cd;
+  margin: 0 -250px;
+  padding: 0 250px;
+}
 
 form {
   display: flex;
