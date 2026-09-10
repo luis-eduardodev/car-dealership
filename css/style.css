@@ -15,11 +15,14 @@ a[href^="https://"] {
   color: #383370;
 }
 
-main {
+main#home {
   display: flex;
   flex-flow: row wrap;
+  align-items: stretch;
+  justify-content: flex-start;
   gap: 20px;
 }
+
 .main-form {
   display: flex;
   flex-direction: column;
@@ -93,8 +96,8 @@ nav ul {
   position: sticky;
   top: 0;
   background-color: #a0d6cd;
-  margin: 0 -250px;
-  padding: 0 250px;
+  margin: 0 -20px;
+  padding: 0 20px;
 }
 
 form {
