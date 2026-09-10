@@ -46,3 +46,4 @@ In development. HTML structure and basic styling complete.
 - `position: sticky`: scrolls normally until it reaches the defined position, then sticks
 - `justify-content`: aligns items along the main axis (horizontal in row direction)
 - `align-items`: aligns items along the cross axis (vertical in row direction)
+- Grid: two-dimensional layout system (rows and columns)
