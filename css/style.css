@@ -83,6 +83,7 @@ a {
   color: #2d82b7;
   text-decoration: none;
   font-weight: bold;
+  font-size: 14px;
 }
 
 a:hover {
@@ -120,7 +121,6 @@ form {
 }
 textarea {
   padding: 8px;
-  width: 80%;
   height: 100px;
   resize: vertical;
 }
@@ -169,4 +169,11 @@ textarea:focus {
 
 input:user-invalid {
   border: 2px solid red;
+}
+
+@media (max-width: 576px) {
+  .form-description {
+    font-size: 12px;
+    padding: 0 10px;
+  }
 }
