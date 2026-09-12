@@ -51,3 +51,4 @@ In development. HTML structure and basic styling complete.
 - `:user-invalid`: marks an invalid field after the user interacts with it
 - `placeholder`: shows example text while the field is empty
 - `transition`: makes a property change gradually
+- `@media`: applies CSS rules only when the screen size matches the condition
