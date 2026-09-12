@@ -47,3 +47,7 @@ In development. HTML structure and basic styling complete.
 - `justify-content`: aligns items along the main axis (horizontal in row direction)
 - `align-items`: aligns items along the cross axis (vertical in row direction)
 - Grid: two-dimensional layout system (rows and columns)
+- `:focus`: selects the element that has keyboard focus
+- `:user-invalid`: marks an invalid field after the user interacts with it
+- `placeholder`: shows example text while the field is empty
+- `transition`: makes a property change gradually
