@@ -52,3 +52,4 @@ In development. HTML structure and basic styling complete.
 - `placeholder`: shows example text while the field is empty
 - `transition`: makes a property change gradually
 - `@media`: applies CSS rules only when the screen size matches the condition
+- CSS variables (`--name`): store values to reuse across the stylesheet
