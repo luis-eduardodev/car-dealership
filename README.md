@@ -18,7 +18,7 @@ A car dealership catalog website, built to practice semantic HTML5 and CSS3 layo
 
 ## Status
 
-In development. HTML structure and basic styling complete.
+HTML structure and CSS styling complete. JavaScript is the next step.
 
 ## What I learned
 
