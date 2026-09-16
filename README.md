@@ -18,7 +18,7 @@ A car dealership catalog website, built to practice semantic HTML5 and CSS3 layo
 
 ## Status
 
-HTML structure and CSS styling complete. JavaScript is the next step.
+HTML structure and CSS styling complete. JavaScript in progress.
 
 ## What I learned
 
@@ -53,3 +53,7 @@ HTML structure and CSS styling complete. JavaScript is the next step.
 - `transition`: makes a property change gradually
 - `@media`: applies CSS rules only when the screen size matches the condition
 - CSS variables (`--name`): store values to reuse across the stylesheet
+- `getElementById()`: finds an element by its id and returns it
+- `addEventListener()`: runs a function when an event happens
+- `preventDefault()`: cancels the browser's default action for that event
+- `reset()`: clears the form fields
