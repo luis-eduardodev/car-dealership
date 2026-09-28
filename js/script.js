@@ -1,6 +1,9 @@
 const submitForm = document.getElementById("contact-form");
+const message = document.createElement("p");
+
 submitForm.addEventListener("submit", function (e) {
   e.preventDefault();
-  alert("Form submitted!");
+  message.textContent = "Message sent. Thank you!";
+  submitForm.append(message);
   submitForm.reset();
 });
