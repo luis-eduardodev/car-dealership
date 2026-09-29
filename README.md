@@ -57,3 +57,9 @@ HTML structure and CSS styling complete. JavaScript in progress.
 - `addEventListener()`: runs a function when an event happens
 - `preventDefault()`: cancels the browser's default action for that event
 - `reset()`: clears the form fields
+- `createElement()`: creates an element in memory, not yet on the page
+- `append()`: adds an element inside another, at the end
+- `classList.add()`: adds a class to an element
+- `setTimeout()`: runs a function after a delay
+- `clearTimeout()`: cancels a timer that hasn't run yet
+- `remove()`: removes an element from the page
