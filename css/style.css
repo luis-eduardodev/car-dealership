@@ -89,6 +89,14 @@ main#home {
   padding: 0;
   margin: 0;
 }
+.message-sent {
+  position: fixed;
+  background-color: var(--border-color);
+  bottom: 20px;
+  right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
 /* ===== Components ===== */
 
 /* --- Nav --- */
