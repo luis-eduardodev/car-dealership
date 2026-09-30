@@ -63,3 +63,6 @@ HTML structure and CSS styling complete. JavaScript in progress.
 - `setTimeout()`: runs a function after a delay
 - `clearTimeout()`: cancels a timer that hasn't run yet
 - `remove()`: removes an element from the page
+- `querySelector()`: finds the first element that matches a CSS selector
+- `classList.toggle()`: adds a class if it's missing, removes it if present
+- `filter()`: creates a new array with the items that pass a test, without changing the original
