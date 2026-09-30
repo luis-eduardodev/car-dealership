@@ -118,6 +118,10 @@ main#home {
   flex-wrap: wrap;
 }
 
+.navtop button {
+  display: none;
+}
+
 /* --- Car card --- */
 
 .car-card {
@@ -199,5 +203,14 @@ input:user-invalid {
   .form-description {
     font-size: 12px;
     padding: 0 10px;
+  }
+  .navtop button {
+    display: block;
+  }
+  .navtop ul {
+    display: none;
+  }
+  .navtop ul.open {
+    display: flex;
   }
 }
